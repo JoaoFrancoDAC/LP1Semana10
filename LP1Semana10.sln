@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower1", "FilePower1\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower2", "FilePower2\FilePower2.csproj", "{155993EA-E7F8-4FC8-A677-C65E22AD8256}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntGrouper", "IntGrouper\IntGrouper.csproj", "{06D25B34-17B6-4C40-99D2-E69F9B383751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{155993EA-E7F8-4FC8-A677-C65E22AD8256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{155993EA-E7F8-4FC8-A677-C65E22AD8256}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{155993EA-E7F8-4FC8-A677-C65E22AD8256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D25B34-17B6-4C40-99D2-E69F9B383751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D25B34-17B6-4C40-99D2-E69F9B383751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D25B34-17B6-4C40-99D2-E69F9B383751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D25B34-17B6-4C40-99D2-E69F9B383751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
