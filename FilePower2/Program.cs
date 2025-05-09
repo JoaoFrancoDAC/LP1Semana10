@@ -19,7 +19,7 @@ namespace FilePower2
 
             try
             {
-                using (StreamWriter writer = new StreamWriter("myfile.txt"))
+                using (StreamWriter writer = new StreamWriter(fileName))
                 {
                     while (true)
                     {
